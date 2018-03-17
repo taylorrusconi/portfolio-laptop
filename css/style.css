@@ -1,0 +1,56 @@
+body{
+	background: #09203f;
+	display: grid;
+	text-align: center;
+}
+
+h1,h2{
+	text-align: center;
+	margin: 5px;
+	font-weight: 1;
+}
+
+h1{
+	font-size: 70px;
+	color: #f794a4;
+}
+
+h2{
+	font-size: 20px;
+	color: #bdc2e8;
+}
+
+hr{
+	width: 600px;
+	border-color: #bdc2e8;
+}
+
+nav{
+	text-align: center;
+	text-decoration: none;
+	word-spacing: 15px;
+	font-weight: 1;
+}
+
+a{
+	color: #f794a4;
+	text-decoration: none;
+	letter-spacing: 2px;
+	
+}
+
+a:hover {
+	color: #bdc2e8;
+}
+
+.aboutme{
+	word-spacing: none;
+}
+
+p{
+	color: #bdc2e8;
+	width: 550px;
+	margin: 50px;
+	 
+}
+
